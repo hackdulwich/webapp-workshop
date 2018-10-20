@@ -6,9 +6,9 @@ Code for the workshop on web apps led by @theIsaacLim, who can also be found at 
 Setup
 -----
 
-1.  Get a [Github](www.github.com) account
+1.  Get a [Github](https://www.github.com) account
 
-2.  Get a [repl.it](www.repl.it)
+2.  Get a [repl.it](https://www.repl.it)
 
 3.  Download the [slides](https://drive.google.com/open?id=1v7sw05QahlzSjUFhmxbiKFlhZrqHG_5Z)
 
