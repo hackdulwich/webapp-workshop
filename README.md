@@ -10,7 +10,7 @@ Setup
 
 2.  Get a [repl.it](repl.it)
 
-3.  Download the [slides](www.example.com)
+3.  Download the [slides](https://drive.google.com/open?id=1v7sw05QahlzSjUFhmxbiKFlhZrqHG_5Z)
 
 Code Links
 ----------
